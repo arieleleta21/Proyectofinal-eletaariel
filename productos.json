@@ -1,0 +1,24 @@
+[
+    {
+        "id": 1,
+        "title": "Martillo",
+        "price": 7000 ,
+        "imagen":"https://www.e-paimun.com.ar/wp-content/uploads/2021/03/Martillo-Galponero-1.jpg"
+        
+        
+    }
+    ,
+    {
+        "id": 2,
+        "title": "Destornillador",
+        "price": 4200 ,
+         "imagen":"https://http2.mlstatic.com/D_NQ_NP_784820-MLA53098203594_122022-O.webp"
+    }
+    ,
+    {
+        "id": 3,
+        "title": "clavo",
+        "price": 4500 ,
+        "imagen": "https://http2.mlstatic.com/D_NQ_NP_612252-MLA71900973528_092023-O.webp"
+    }
+]
